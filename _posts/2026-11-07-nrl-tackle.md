@@ -2,7 +2,7 @@
 layout: post
 title: "Building NRL Tackle in VR"
 author: "UQ Reality Labs"
-date: 2026-11-07 09:00:00 +1000
+date: 2026-11-07 12:00:00 +1000
 categories: projects
 tags: nrl tackle unity xr vr
 ---

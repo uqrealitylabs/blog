@@ -2,7 +2,7 @@
 layout: post
 title: "Face-controlled ball tracking for referee training"
 author: "UQ Reality Labs"
-date: 2026-11-07 12:00:00 +1000
+date: 2026-11-07 13:00:00 +1000
 categories: projects
 tags: referee tracking webcam unity python
 ---
