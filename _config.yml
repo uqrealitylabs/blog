@@ -1,0 +1,32 @@
+title: UQ Reality Labs Blog
+author:
+  name: UQ Reality Labs
+  email: uqrealitylabs@gmail.com
+description: >-
+  Project write-ups, event recaps, and experiments from the UQ Reality Labs
+  community.
+baseurl: "/blog"
+url: "https://uqrealitylabs.com"
+github_username: uqrealitylabs
+
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+minima:
+  skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/uqrealitylabs"
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/uqrealitylabs/"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/company/uq-reality-labs"
+    - title: Discord
+      icon: discord
+      url: "https://discord.com/invite/eN6v8R3fYD"
+  show_excerpts: true
