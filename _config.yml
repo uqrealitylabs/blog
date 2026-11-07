@@ -7,6 +7,7 @@ description: >-
   community.
 baseurl: "/blog"
 url: "https://uqrealitylabs.com"
+timezone: Australia/Brisbane
 github_username: uqrealitylabs
 
 remote_theme: jekyll/minima
