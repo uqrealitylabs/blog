@@ -20,4 +20,3 @@ bundle exec jekyll serve
 ```
 
 The site is built and deployed to GitHub Pages by
-`.github/workflows/pages.yml`.
